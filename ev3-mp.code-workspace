@@ -1,10 +1,8 @@
 {
 	"folders": [
 		{
-			"path": "ev3-mp-ex1\\ev3_mp_ex1"
+			"path": "."
 		}
 	],
-	"settings": {
-		"debug.openDebug": "neverOpen"
-	}
+	"settings": {}
 }
